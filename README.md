@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="dabeecao banner" />
-
-  # 👋 Hi, I'm @dabeecao
-  ### 🚀 Fullstack Developer | 🐹 Gopher | 🌐 Network Architect | 📱 Legacy iOS Jailbreaker
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+dabeecao;Fullstack+Developer;Golang+Enthusiast;Network+Administrator;Legacy+iOS+Jailbreaker" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/dabeecao">
@@ -18,9 +15,9 @@
 I am a passionate **Fullstack Developer** with a deep love for building robust systems. From crafting high-performance backends in **Golang** to managing complex **Network Infrastructures**, I thrive on solving technical challenges. 
 
 - 🐹 **Golang Enthusiast**: Building scalable services and exploring the Gopher ecosystem.
-- 📱 **Jailbreak Legacy**: Experienced in iOS internal tweaks and system-level modifications from the golden era of jailbreaking.
+- 📱 **Jailbreak Legacy**: Experienced in iOS internal tweaks and system-level modifications.
 - 🌐 **NetAdmin**: Proficient in network configuration, administration, and security.
-- 🛠 **Fullstack**: Versatile in **Python**, **Node.js**, and **PHP** for building end-to-end applications.
+- 🛠 **Fullstack**: Versatile in **Python**, **Node.js**, and **PHP**.
 
 ---
 
@@ -39,15 +36,25 @@ I am a passionate **Fullstack Developer** with a deep love for building robust s
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dabeecao&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dabeecao&show_icons=true&theme=tokyonight&count_private=true" alt="dabeecao's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabeecao&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
 </div>
 
+---
+
+### 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabeecao&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/dabeecao/dabeecao/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -56,7 +63,3 @@ I am a passionate **Fullstack Developer** with a deep love for building robust s
 
 - 🌍 Check out my work at [github.com/dabeecao](https://github.com/dabeecao)
 - 💬 Ask me about **Golang**, **Networking**, or **iOS Tweaks**!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dabeecao/dabeecao/main/banner.png" style="display:none;" />
-</div>
